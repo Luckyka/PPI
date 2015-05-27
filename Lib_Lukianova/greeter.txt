@@ -2,4 +2,8 @@ class Greeter
   def initialize(who)
     @who = who
   end
-  def
+  def greet
+    "Hello, 
+end
+end
+
